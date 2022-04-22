@@ -8,7 +8,7 @@ public class Principal {
 
     public static void main(String[] args) {
         // Round se encaixa, sem surpresa.
-        RoundHole hole = new RoundHole(5.0d);
+        RoundHole hole = new RoundHole(5);
         RoundPeg rpeg = new RoundPeg(5);
         if (hole.fits(rpeg)) {
             System.out.println("O pino redondo r5 se encaixa no furo redondo r5.");
