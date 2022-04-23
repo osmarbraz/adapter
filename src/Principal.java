@@ -1,7 +1,7 @@
 
-import com.adapter.RoundHole;
-import com.adapter.RoundPeg;
-import com.adapter.SquarePeg;
+import com.adapter.round.RoundHole;
+import com.adapter.round.RoundPeg;
+import com.adapter.square.SquarePeg;
 import com.adapter.SquarePegAdapter;
 
 public class Principal {

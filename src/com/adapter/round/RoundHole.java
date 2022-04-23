@@ -1,4 +1,4 @@
-package com.adapter;
+package com.adapter.round;
 
 /**
  * Furos redondos são compatíveis com pinos redondos.

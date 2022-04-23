@@ -1,5 +1,8 @@
 package com.adapter;
 
+import com.adapter.square.SquarePeg;
+import com.adapter.round.RoundPeg;
+
 /**
  * Adaptador permite encaixar pinos quadrados em furos redondos.
  */

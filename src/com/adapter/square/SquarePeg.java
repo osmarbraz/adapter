@@ -1,4 +1,4 @@
-package com.adapter;
+package com.adapter.square;
 
 /**
  * Os Pinos Quadrados não são compatíveis com Furos Redondos (eles foram

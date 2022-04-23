@@ -1,4 +1,4 @@
-package com.adapter;
+package com.adapter.round;
 
 /**
  * Pinos redondos são compatíveis com furos redondos.
